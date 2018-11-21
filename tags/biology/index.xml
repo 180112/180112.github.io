@@ -21,5 +21,15 @@
       <description>Here I describe my project using Markdown formatting...</description>
     </item>
     
+    <item>
+      <title>Creating this website</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>Le contenu ici
+Un titre Du texte avec une partie en gras...</description>
+    </item>
+    
   </channel>
 </rss>

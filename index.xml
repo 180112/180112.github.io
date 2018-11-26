@@ -11,12 +11,12 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My project</title>
+      <title>Planning an Erasmus</title>
       <link>/project/example-project/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+      <description>&lt;p&gt;The first thing to do is to choose the place where I want to do my course. Since I am a biology student, the best is to go to a natural place. The most naturel places in Japan are the nothern districts so I am still hesitating between going to Hokkaido or Tohoku.&lt;/p&gt;
 </description>
     </item>
     
@@ -36,13 +36,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;Le contenu ici&lt;/p&gt;
-
-&lt;h2 id=&#34;un-titre&#34;&gt;Un titre&lt;/h2&gt;
-
-&lt;p&gt;Du texte &lt;strong&gt;avec une partie en gras&lt;/strong&gt;...&lt;/p&gt;
+      <description>&lt;p&gt;It was pretty difficult at the beginning because my knowledge in R Studio was nothing more than zero, but now that I&#39;m getting used to it, I feel like I can do whatever I want.&lt;/p&gt;
 </description>
     </item>
     
